@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\UNREAL\\lfstest\\Source\\lfstest\\lfstest.Build.cs",
+		"C:\\UNREAL\\lfstest\\Source\\lfstest.Target.cs",
+		"C:\\UNREAL\\lfstest\\Source\\lfstestEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.2"
+}
